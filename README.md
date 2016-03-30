@@ -5,5 +5,4 @@ This repository created for making usefull nautilus-python based extensions ever
 ## Created Extensions 
 
 1. Md5 checksum for files.
-2. Youtube download (limited abilities for now)
 
